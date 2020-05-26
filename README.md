@@ -51,15 +51,15 @@ required to complete them.
 | [Color Cycle](./Projects/1-Beginner/Color-Cycle-App.md)                           | Cycle a color value through incremental changes            | 1-Beginner | Completed       |
 | [Countdown Timer](./Projects/1-Beginner/Countdown-Timer-App.md)                   | Event Countdown timer                                      | 1-Beginner | Completed       |
 | [CSV2JSON App](./Projects/1-Beginner/CSV2JSON-App.md)                             | CSV to JSON converter                                      | 1-Beginner |        |
-| [Dollars to Cents](./Projects/1-Beginner/Dollars-To-Cents-App.md)                 | Convert dollars to cents                                   | 1-Beginner |        |
-| [Dynamic CSS Variables](./Projects/1-Beginner/Dynamic-CSSVar-app.md)              | Dynamically change CSS variable settings                   | 1-Beginner | Completed      |
+| [Dollars to Cents](./Projects/1-Beginner/Dollars-To-Cents-App.md)                 | Convert dollars to cents                                   | 1-Beginner | Completed       |
+| [Dynamic CSS Variables](./Projects/1-Beginner/Dynamic-CSSVar-app.md)              | Dynamically change CSS variable settings                   | 1-Beginner |       |
 | [First DB App](./Projects/1-Beginner/First-DB-App.md)                             | Your first Database app!                                   | 1-Beginner |       |
 | [Flip Image](./Projects/1-Beginner/Flip-Image-App.md)                             | Change the orientation of images across two axes           | 1-Beginner |       |
 | [GitHub Status](./Projects/1-Beginner/GitHub-Status-App.md)                       | Display Current GitHub Status                              | 1-Beginner |      |
 | [Hello](./Projects/1-Beginner/Hello-App.md)                                       | User native language greeting                              | 1-Beginner |       |
 | [IOT Mailbox Simulator](./Projects/1-Beginner/IOT-Mailbox-App.md)                 | Use callbacks to check your snail mail                     | 1-Beginner |       |
 | [JS Input Validation](./Projects/1-Beginner/Javascript-Validation-With-Regex.md)  | Script to validate inputs entered by a user using RegEx    | 1-Beginner |        |
-| [JSON2CSV App](./Projects/1-Beginner/JSON2CSV-App.md)                             | JSON to CSV converter                                      | 1-Beginner | Complete       |
+| [JSON2CSV App](./Projects/1-Beginner/JSON2CSV-App.md)                             | JSON to CSV converter                                      | 1-Beginner | Completed      |
 | [Key Value](./Projects/1-Beginner/Key-Value-App.md)                               | Keyboard Event Values                                      | 1-Beginner |       |
 | [Lorem Ipsum Generator](./Projects/1-Beginner/Lorem-Ipsum-Generator.md)           | Generate lorem ipsum placeholder text                      | 1-Beginner |        |
 | [Notes App](./Projects/1-Beginner/Notes-App.md)                                   | Create an online note pad                                  | 1-Beginner |        |
