@@ -53,7 +53,7 @@ required to complete them.
 | [CSV2JSON App](./Projects/1-Beginner/CSV2JSON-App.md)                             | CSV to JSON converter                                      | 1-Beginner |        |
 | [Dollars to Cents](./Projects/1-Beginner/Dollars-To-Cents-App.md)                 | Convert dollars to cents                                   | 1-Beginner | Completed       |
 | [Dynamic CSS Variables](./Projects/1-Beginner/Dynamic-CSSVar-app.md)              | Dynamically change CSS variable settings                   | 1-Beginner |       |
-| [First DB App](./Projects/1-Beginner/First-DB-App.md)                             | Your first Database app!                                   | 1-Beginner |       |
+| [First DB App](./Projects/1-Beginner/First-DB-App.md)                             | Your first Database app!                                   | 1-Beginner | Completed      |
 | [Flip Image](./Projects/1-Beginner/Flip-Image-App.md)                             | Change the orientation of images across two axes           | 1-Beginner |       |
 | [GitHub Status](./Projects/1-Beginner/GitHub-Status-App.md)                       | Display Current GitHub Status                              | 1-Beginner |      |
 | [Hello](./Projects/1-Beginner/Hello-App.md)                                       | User native language greeting                              | 1-Beginner |       |
